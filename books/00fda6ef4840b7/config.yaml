@@ -1,0 +1,14 @@
+title: "Swiftを分りたい"
+summary: "Swiftの勉強を兼ねた復習。Rustのレファレンス等々の構成をパクってます。順番はなんとなく"
+topics: ["swift"]
+published: false
+price: 0 # 有料の場合200〜5000
+toc_depth: 3
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - hello-world
+  - guessing-game
+  - basic
+  - enum
+  - class-and-struct
+  - error-handling
