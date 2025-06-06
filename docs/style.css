@@ -1,0 +1,29 @@
+body {
+    font-family:"Helvetica Neue", "Hiragino Kaku Gothic ProN", "Hiragino Sans", Arial, Meiryo, sans-serif;
+}
+
+.content {
+    display: block;
+    margin-left: 30px;
+}
+.title {
+    p {
+        font-family: "Times New Roman", "Georgia";
+        margin-top: 20px;
+        margin-bottom: 30px;
+        font-size: 60px;
+        a {
+            color: #333333;
+            text-decoration: none;
+        }
+    }
+}
+
+.articles {
+    .articles_list {
+        padding-left: 20px;
+        li {
+            list-style: none;
+        }
+    }
+}
