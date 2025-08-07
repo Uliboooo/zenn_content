@@ -1,0 +1,20 @@
+title: "Rustを分かりたい"
+summary: "Rust備忘録。noteに書いていたものからアップデートしていく。"
+topics: ["rust"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - 10-series-info
+  - 20-setup-rust
+  - 30-variable
+  - 40-deta-type-calculation
+  - 50-basyc-syntax
+  - 60-ownship
+  - 70-structure-enum
+  - 80-impl
+  - 90-generic-type-abstraction
+  - 100-test
+  - 110-error-handiling
+  - 120-module-crates
+toc_depth: 3

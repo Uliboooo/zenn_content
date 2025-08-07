@@ -1,0 +1,10 @@
+title: "Rust-チートシート"
+summary: "rustのsyntaxなどを完結にまとめる"
+topics: ["rust"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - 10-setup 
+  - 20-var-type-ope
+  - 30-flow
