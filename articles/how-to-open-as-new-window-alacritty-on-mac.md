@@ -1,5 +1,5 @@
 ---
-title: "mac上のAlacrittyで[200~ウィンドウでなくタブでが開いてしまう"
+title: "mac上のAlacrittyでウィンドウでなくタブでが開いてしまう"
 emoji: "🖥️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["alacritty", "tips"]
@@ -24,4 +24,3 @@ bindings = [
 ## 原因
 
 あの設定で書類を開いた判定になって、タブで開いてしまうよう。
-
